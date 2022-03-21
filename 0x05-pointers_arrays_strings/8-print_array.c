@@ -112,4 +112,3 @@ void print_array(int *a, int n)
 
 
 }
-[D[D[A[C
