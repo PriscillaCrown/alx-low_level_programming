@@ -19,4 +19,5 @@ char *_memset(char *s, char b, unsigned int n)
 
 	return (s);
 }
-[D[D[C[D[D[A[C
+
+
